@@ -1,0 +1,17 @@
+[user]
+	email = sch.icq@gmail.com
+	name = Volodymyr Shcherbyna
+
+[alias]
+  st = status
+  co = checkout
+  ci = commit
+  br = branch
+  dif = diff
+  df = diff
+  lo = log
+
+[color]
+  ui = true
+
+[edit]
