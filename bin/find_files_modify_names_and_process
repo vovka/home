@@ -1,0 +1,1 @@
+find . -name *.slim | xargs -I{} echo slimrb -e {} {} | sed 's/.slim/.html.erb/2' | bash

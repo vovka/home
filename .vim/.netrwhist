@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/vscherb/.bash_customization'
+let g:netrw_dirhist_2='/opt/torquebox-3.0.2/jboss/standalone/deployments'

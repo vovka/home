@@ -1,0 +1,3 @@
+tail -f log/development.log | grep -v 'Started GET "/assets/' | grep -i 'Rendered \|Processing by \|Started '
+
+grep -v 'Started GET "/brpm/assets/' log/development.log | grep . | grep -i 'Rendered \|Processing by \|Started \|.*\(.*ms.*\)' | sed -e 's/^Started /\'$'\nStarted /g' | less -r

@@ -1,0 +1,17 @@
+[color]
+	ui = true
+
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+	dif = diff
+	df = diff
+	lo = log
+
+[user]
+	name = Volodymyr Shcherbyna
+	email = vscherb@softserveinc.com
+[core]
+	editor = /usr/bin/vim
