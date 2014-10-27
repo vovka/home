@@ -14,4 +14,5 @@
 	name = Volodymyr Shcherbyna
 	email = vscherb@softserveinc.com
 [core]
-	editor = /usr/bin/vim
+  editor = /usr/bin/vim
+

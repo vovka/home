@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sox $1 $2 tempo $3
+
