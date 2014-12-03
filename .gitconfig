@@ -1,0 +1,25 @@
+[user]
+	email = scherbina.v@gmail.com
+	name = Vladimir Scherbina\n
+#[sendemail]
+#        smtpserver = smtp.gmail.com
+#        chainreplyto = no
+#        smtpuser = <you>@gmail.com
+#        smtpserverport = 587
+#        smtpencryption = tls
+#        smtppass = <somepass>
+#        suppress-cc = all
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+	dif = diff
+	df = diff
+	lo = log
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[edit]
+
