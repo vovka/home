@@ -1,0 +1,2 @@
+cd $1 && pwd=$(pwd) && ls -d */ | xargs -I{} echo "ln -s \"$pwd/{}\" \"$2\"" | bash
+
