@@ -14,3 +14,5 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTree
 
 set nowrap
 set completefunc=syntaxcomplete#Complete
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+

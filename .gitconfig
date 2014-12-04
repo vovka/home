@@ -1,6 +1,3 @@
-[color]
-	ui = true
-
 [alias]
 	st = status
 	co = checkout
@@ -13,6 +10,14 @@
 [user]
 	name = Volodymyr Shcherbyna
 	email = vscherb@softserveinc.com
+
 [core]
   editor = /usr/bin/vim
 
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+  ui = true
+
+[edit]
