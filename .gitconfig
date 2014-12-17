@@ -1,6 +1,3 @@
-[user]
-	email = scherbina.v@gmail.com
-	name = Vladimir Scherbina\n
 #[sendemail]
 #        smtpserver = smtp.gmail.com
 #        chainreplyto = no
